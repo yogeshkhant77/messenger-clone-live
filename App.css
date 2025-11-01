@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+/* ensure messages aren't hidden behind the fixed input form */
+.App {
+  padding-bottom: 120px;
+}
+
+.app__logo {
+  width: 60px;
+  height: auto;
+  margin: 12px 0;
+  display: inline-block;
+}
+
+.app__form {
+  padding: 12px 16px;
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  background-color: #e9e9eb;
+  width: calc(100% - 40px);
+  max-width: 760px;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+
+.app__formControl {
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+.app__input {
+  flex: 1;
+}
+
+.app__iconButton {
+  width: 40px;
+  height: 40px;
+}
+
+@media (max-width: 420px) {
+  .app__logo { width: 48px; }
+  .App { padding-bottom: 140px; }
+  .app__form { width: calc(100% - 24px); bottom: 14px; }
+}
