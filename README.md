@@ -35,3 +35,7 @@ MongoDB & Mongoose
 Pusher
 
 Nodemon
+
+## demo
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/96ff58df-4fee-4b4f-8145-e28d0d830cbe" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f092cc4f-6789-452f-9886-925746fbad7c" />
