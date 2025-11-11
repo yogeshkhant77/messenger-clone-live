@@ -15,11 +15,12 @@ CORS-enabled Express server
 Auto-reload using Nodemon for development
 
 ## Installation
-# Clone the repository
+Clone the repository
 git clone https://github.com/yogeshkhant77/messenger-clone-live.git
+
 cd messenger-backend
 
-# Install dependencies
+Install dependencies
 npm install
 ## Run the Server
 npm start
