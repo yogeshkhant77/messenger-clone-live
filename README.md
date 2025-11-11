@@ -24,7 +24,8 @@ Install dependencies
 npm install
 ## Run the Server
 npm start
-##⚙️ Technologies Used
+
+## Technologies Used
 Node.js
 Express.js
 MongoDB & Mongoose
