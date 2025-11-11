@@ -27,7 +27,11 @@ npm start
 
 ## Technologies Used
 Node.js
+
 Express.js
+
 MongoDB & Mongoose
+
 Pusher
+
 Nodemon
